@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+
+## Twitter(@garagara_denx)のAPIキー
+CONSUMER_KEY = "OB3wPgvTAUV2Q1Zkda5g8prNc"
+CONSUMER_SECRET = "uEVwWQk2QwX4dek7fyTNzifzIwdDgod9yetNCVy0xW8JEMDQqr"
+ACCESS_TOKEN = "858355359504777219-FCKFoFb3ChMlec0pgTkyPbfOTOkNzpk"
+ACCESS_TOKEN_SECRET = "NzI2zZGcOmbpGvnhKi5DQDEeG8XiF4CR4FnhlP3SYEEDd"
